@@ -1,0 +1,12 @@
+/* light-theme.css — "paper & petrol" palette */
+:root {
+  --bg: #F7F5F1;
+  --bg-card: #FFFFFF;
+  --ink: #1B2430;
+  --ink-soft: #5B6472;
+  --accent: #1F6F6B;
+  --accent-soft: #E4EEEC;
+  --gold: #B08D57;
+  --border: #E3DFD6;
+  --shadow: rgba(27, 36, 48, 0.08);
+}

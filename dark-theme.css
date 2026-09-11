@@ -1,0 +1,12 @@
+/* dark-theme.css — "terminal at night" palette */
+:root {
+  --bg: #0D1117;
+  --bg-card: #131A22;
+  --ink: #E6EDF3;
+  --ink-soft: #8B98A5;
+  --accent: #3FB8AF;
+  --accent-soft: #16302E;
+  --gold: #D4A657;
+  --border: #232B36;
+  --shadow: rgba(0, 0, 0, 0.5);
+}
